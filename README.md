@@ -59,8 +59,8 @@ MarketLens fetches **live NSE stock data** via yfinance and provides a complete 
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/vetriselvi2003/marketlens
-cd marketlens
+git clone https://github.com/vetriselvi2003/Financial-Market-Analysis-Tool
+cd Financial-Market-Analysis-Tool
 pip install -r requirements.txt
 streamlit run app.py
 ```
