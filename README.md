@@ -2,7 +2,7 @@
 
 An interactive Streamlit application for analysing NSE-listed Indian stocks with real-time data, risk metrics, correlation analysis, and portfolio simulation.
 
-**[🚀 Live App →](https://your-app.streamlit.app)**
+**[🚀 Live App →](https://financial-market-analysis-tool-b8cxx9ehkazkndqethatkg.streamlit.app/)**
 
 ---
 
